@@ -2,6 +2,10 @@
 
 ### Dave Whytes Breathing Dots
 
+branch: module/breathing-dots-err
+
+status: Needs updating from v5 > v8
+
 [Article](https://tympanus.net/codrops/2020/12/17/recreating-a-dave-whyte-animation-in-react-three-fiber/)
 
 ---
